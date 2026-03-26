@@ -1,0 +1,66 @@
+# =========================
+# .NET / C# Build Artifacts
+# =========================
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# NuGet
+# =========================
+*.nupkg
+packages/
+
+# =========================
+# Publish Output
+# =========================
+publish/
+
+# =========================
+# Test Results
+# =========================
+TestResults/
+
+# =========================
+# Environment / Secrets
+# =========================
+.env
+*.env
+
+# =========================
+# Database (future use)
+# =========================
+*.db
+*.sqlite
+
+# =========================
+# Temp Files
+# =========================
+*.tmp
+*.temp
